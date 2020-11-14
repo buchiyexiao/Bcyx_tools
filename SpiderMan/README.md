@@ -2,7 +2,7 @@
 
 ##### 考古学家Bcyx的一天
 
-
+#### GITHUB https://github.com/buchiyexiao/Bcyx_tools
 
 个人最开始接触Python爬虫是在大一下参加了学校的一个国创项目组，当时我负责进行爬虫代码的编写，那时候就了解了一些爬虫的技术，当时尝试了挺多技术的，比如八爪鱼这种现成包装好的爬虫软件、requests+beautifulsoup页面读取、selenium的模拟浏览器技术，不过最后随着个人原因退出了项目组，对爬虫的理解也就停留在了那个阶段
 
